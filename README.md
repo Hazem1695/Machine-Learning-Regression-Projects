@@ -23,7 +23,7 @@ Each model is implemented in a separate Jupyter Notebook:
 
 Project include:
 
-1- multiple linear regression project
+1- Multiple Linear Regression Project
 
 ---
 
