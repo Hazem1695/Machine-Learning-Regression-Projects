@@ -62,6 +62,10 @@ This repository will cover the following regression models:
 
 All explanations, code, and experiments are documented inside the notebooks themselves.
 
+For a deeper understanding of the Machine Learning concepts used in these projects, you can check my separate repository:
+
+🔗 [ml-concept-briefs](https://github.com/Hazem1695/ml-concept-briefs)
+
 ---
 
 # **Author**
