@@ -32,9 +32,11 @@ To maintain consistency and focus on understanding each model deeply, this proje
 | 4      | Decision Tree Regression        | 2026-04-27      | Planned    |
 | 5      | Random Forest Regression        | 2026-04-28      | Planned    |
 
-In Progress – Currently being worked on
-Planned – Not uploaded yet
-Completed – Uploaded and documented
+- In Progress – Currently being worked on
+
+- Planned – Not uploaded yet
+
+- Completed – Uploaded and documented
 
 ---
 
