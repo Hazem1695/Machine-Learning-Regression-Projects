@@ -29,7 +29,7 @@ To maintain consistency and focus on understanding each model deeply, this proje
 | 1      | Multiple Linear Regression      | 2026-04-25      | Completed  |
 | 2      | Polynomial Regression           | 2026-04-25      | Completed  |
 | 3      | Support Vector Regression (SVR) | 2026-04-26      | Completed  |
-| 4      | Decision Tree Regression        | 2026-04-27      | Planned    |
+| 4      | Decision Tree Regression        | 2026-04-27      | Completed  |
 | 5      | Random Forest Regression        | 2026-04-28      | Planned    |
 
 - In Progress – Currently being worked on
