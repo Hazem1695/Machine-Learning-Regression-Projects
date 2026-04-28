@@ -44,6 +44,7 @@ Each project is implemented as a detailed Jupyter Notebook that includes:
 Each project focuses on applying multiple regression models to a specific real-world problem, with a full pipeline from data preprocessing to model evaluation and insights.
 
 1.  Tesla Model Y Price Prediction
+2.  Medical Cost Prediction
 
 More projects will be added over time.
 
