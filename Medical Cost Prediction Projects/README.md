@@ -2,8 +2,8 @@ To maintain consistency and focus on understanding each model deeply, this proje
 
 | Day    | Model Name                      | Publish Date    | Status     |
 | ------ | ------------------------------  | --------------- | ---------  |
-| 1      | Multiple Linear Regression      | 2026-04-29      | Planned    |
-| 2      | Polynomial Regression           | TBD             | In Progress|
+| 1      | Multiple Linear Regression      | 2026-04-29      | Completed  |
+| 2      | Polynomial Regression           | 2026-04-30      | In Progress|
 | 3      | Support Vector Regression (SVR) | TBD             | In Progress|
 | 4      | Decision Tree Regression        | TBD             | Planned    |
 | 5      | Random Forest Regression        | TBD             | In Progress|
